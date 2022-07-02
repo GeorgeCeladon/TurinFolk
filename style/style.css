@@ -1,0 +1,7 @@
+body {
+  font-family: "Lato";
+  text-align: center;
+  background: #fffae6;
+  color: #012744;
+  transition: background 0.2s ease-in, color 0.2s ease;
+}
