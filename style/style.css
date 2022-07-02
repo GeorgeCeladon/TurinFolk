@@ -5,3 +5,9 @@ body {
   color: #012744;
   transition: background 0.2s ease-in, color 0.2s ease;
 }
+
+default-color-1: #1a222f;
+default-color-2: #008e74;
+default-color-3: #b2e097;
+default-color-4: #d24335;
+default-color-5: #1c3a40;
