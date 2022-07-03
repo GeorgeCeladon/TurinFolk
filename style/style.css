@@ -1,7 +1,7 @@
 body {
   font-family: "Lato";
   text-align: center;
-  background: #fffae6;
+  background: #f6dcbf;
   color: #012744;
 }
 
@@ -11,15 +11,13 @@ h3,
 h4,
 h5,
 h6 {
-  color: #d24335;
+  color: #e1701a;
+}
+
+nav {
+  background: linear-gradient(130deg, #f7a440, #e1701a 76.05%);
 }
 
 a {
-  color: #b2e097;
+  color: #aaaaaa;
 }
-
-default-color-1: #1a222f;
-default-color-2: #008e74;
-default-color-3: #b2e097;
-default-color-4: #d24335;
-default-color-5: #1c3a40;
