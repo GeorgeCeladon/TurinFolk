@@ -5,23 +5,12 @@ body {
   color: #1a222f;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #dd7162;
-}
-
 header {
   background-image: url("https://georgeceladon.github.io/TurinFolk/img/header_edited.jpg");
   height: 350px; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
-  text-align: center;
-  vertical-align: middle;
 }
 
 nav {
@@ -33,8 +22,38 @@ nav {
   border-top-width: 1px;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #dd7162;
+}
+
 a {
   color: #1a222f !important;
+}
+
+#toc_container {
+  background: #f9f9f9 none repeat scroll 0 0;
+  border: 1px solid #aaa;
+  display: table;
+  font-size: 95%;
+  margin-bottom: 1em;
+  padding: 20px;
+  width: auto;
+}
+
+.toc_title {
+  font-weight: 700;
+  text-align: center;
+}
+
+#toc_container li,
+#toc_container ul,
+#toc_container ul li {
+  list-style: outside none none !important;
 }
 
 .btn-brani {
