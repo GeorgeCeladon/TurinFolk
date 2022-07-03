@@ -1,8 +1,8 @@
 body {
   font-family: "Lato";
   text-align: center;
-  background: #f6dcbf;
-  color: #012744;
+  background: #fffae6;
+  color: #1a222f;
 }
 
 h1,
@@ -11,13 +11,32 @@ h3,
 h4,
 h5,
 h6 {
-  color: #e1701a;
+  color: #dd7162;
 }
 
 nav {
-  background: linear-gradient(130deg, #f7a440, #e1701a 76.05%);
+  background: linear-gradient(130deg, #a9524a, #bfcf95 35%, #36a586 85%);
+  border-color: #1a222f;
+  border-style: solid;
+  border-width: 1px;
 }
 
 a {
-  color: #aaaaaa;
+  color: #1a222f !important;
+}
+
+.btn-brani {
+  background-color: #dd7162;
+}
+
+.btn-spartiti {
+  background-color: #b2e097;
+}
+
+.btn-passi {
+  background-color: #008e74;
+}
+
+.btn-testi {
+  background-color: #aaaaaa;
 }
