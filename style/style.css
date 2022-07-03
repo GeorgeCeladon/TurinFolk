@@ -14,6 +14,16 @@ h6 {
   color: #dd7162;
 }
 
+header {
+  background-image: url("https://georgeceladon.github.io/TurinFolk/img/header_edited.jpg");
+  height: 350px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  text-align: center;
+  vertical-align: middle;
+}
+
 nav {
   background: linear-gradient(130deg, #a9524a, #bfcf95 35%, #36a586 85%);
   border-color: #1a222f;
