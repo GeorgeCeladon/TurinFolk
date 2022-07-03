@@ -17,8 +17,10 @@ h6 {
 nav {
   background: linear-gradient(130deg, #a9524a, #bfcf95 35%, #36a586 85%);
   border-color: #1a222f;
-  border-style: solid;
-  border-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-top-style: solid;
+  border-top-width: 1px;
 }
 
 a {
