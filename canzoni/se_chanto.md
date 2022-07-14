@@ -1,5 +1,3 @@
-Se Chanta
-
 Devant de ma fenèstra
 i a un auselon
 Tota la nuèch chanta,
