@@ -1,5 +1,8 @@
+* {
+  font-family: "IM Fell DW Pica", serif !important;
+}
+
 body {
-  font-family: "Lato";
   text-align: center;
   background: #fffae6;
   color: #1a222f;
@@ -15,7 +18,8 @@ header {
 
 nav {
   background: linear-gradient(130deg, #a9524a, #bfcf95 35%, #36a586 85%);
-  border-color: #1a222f;
+  background: linear-gradient(130deg, #f5f0bb, #c4dfaa 35%, #90c8ac 85%);
+  border-color: #aaa;
   border-bottom-style: solid;
   border-bottom-width: 1px;
   border-top-style: solid;
